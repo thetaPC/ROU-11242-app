@@ -1,0 +1,7 @@
+{
+  "name": "ROU-11242-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
